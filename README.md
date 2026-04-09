@@ -1,5 +1,7 @@
 # CellPlateVision
 
+> **Status: Prototype / Research**
+
 Automated cell culture growth detection on round Petri dishes using
 image-based confluence estimation and electronic lab notebook integration.
 
